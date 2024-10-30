@@ -34,11 +34,3 @@ I'm always open to collaboration and inquiries!
 
 - **Email:** [daniel.sloss.smith@gmail.com](mailto:daniel.sloss.smith@gmail.com)
 - **GitHub:** [https://github.com/gnosissoftengineer/](#)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to [Your Inspirations or Resources] for their support and motivation.
